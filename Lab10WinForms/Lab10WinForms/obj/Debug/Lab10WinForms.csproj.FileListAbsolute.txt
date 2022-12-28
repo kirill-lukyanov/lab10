@@ -1,0 +1,11 @@
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\bin\Debug\Lab10WinForms.exe.config
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\bin\Debug\Lab10WinForms.exe
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\bin\Debug\Lab10WinForms.pdb
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.csproj.AssemblyReference.cache
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.Form1.resources
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.Properties.Resources.resources
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.csproj.GenerateResource.cache
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.csproj.CoreCompileInputs.cache
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.exe
+C:\Users\energ\source\repos\Lab10WinForms\Lab10WinForms\obj\Debug\Lab10WinForms.pdb
